@@ -9,3 +9,4 @@ function bomDia() {
 const bomDia = function () {
   console.log("Bom dia!");
 };
+aaaa
